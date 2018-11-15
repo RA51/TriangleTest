@@ -1,0 +1,19 @@
+# directories
+.settings/
+target/
+test/
+WebContent/
+
+# files
+.project
+.classpath
+.logs
+/bin
+/MANIFEST.MF
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+.mvn
