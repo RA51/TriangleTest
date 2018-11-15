@@ -1,7 +1,6 @@
 # directories
 .settings/
 target/
-test/
 WebContent/
 
 # files
